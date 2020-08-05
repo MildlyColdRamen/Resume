@@ -1,0 +1,44 @@
+body{
+    background-color: grey;
+}
+.sections{
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.name{
+    color: darkblue;
+    font-style: bold;
+}
+.contact{
+    text-align: right;
+    color: darkviolet;
+}
+.body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.back{
+    background-image: image("back.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}.list{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+}
+.body{
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-size: large;
+color: rgb(29, 209, 9);
+}
+.sub{
+    font-family: 'Times New Roman', Times, serif;
+    color: firebrick;
+}
+.listname{
+color: darkred;
+font-size: large;
+}
